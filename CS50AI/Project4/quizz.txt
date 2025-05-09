@@ -1,0 +1,5 @@
+For data point 1, the true output is 2 and the AI predicted 4. 
+For data point 2, the true output is 4 and the AI predicted 5. 
+For data point 3, the true output is 4 and the AI predicted 3. 
+For data point 4, the true output is 5 and the AI predicted 2. 
+For data point 5, the true output is 6 and the AI predicted 5.
